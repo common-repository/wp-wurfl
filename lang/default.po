@@ -1,0 +1,376 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-wurfled 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-05 14:35+0100\n"
+"PO-Revision-Date: 2009-06-05 14:44+0100\n"
+"Last-Translator: Libor Sigmund <libor.sigmund@demoru.com>\n"
+"Language-Team: DEMORU <libor.sigmund@demoru.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /home/mch/www/wp-wurfled/\n"
+"X-Poedit-SearchPath-0: /home/mch/www/wp-wurfled\n"
+
+#: /home/mch/www/wp-wurfled/wurfled.php:153
+msgid "WP-Wurfled"
+msgstr "WP-Wurfled"
+
+#: /home/mch/www/wp-wurfled/wurfled-handsets.php:27
+#, php-format
+msgid "Display: width: %s px, height: %s px"
+msgstr "Display: width: %s px, height: %s px"
+
+#: /home/mch/www/wp-wurfled/wurfled-handsets.php:30
+#, php-format
+msgid "Device %s not found"
+msgstr "Device %s not found"
+
+#: /home/mch/www/wp-wurfled/wurfled-handsets.php:193
+msgid "devices loaded"
+msgstr "devices loaded"
+
+#: /home/mch/www/wp-wurfled/wurfled-html.php:232
+msgid "Download Capabilities"
+msgstr "Download Capabilities"
+
+#: /home/mch/www/wp-wurfled/wurfled-html.php:234
+msgid "Not Supported"
+msgstr "Not Supported"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/404.php:3
+msgid "Error 404 - Not Found"
+msgstr "Error 404 - Not Found"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/404.php:4
+#: /home/mch/www/wp-wurfled/wml-theme/index.php:16
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Sorry, but you are looking for something that isn't here."
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:6
+#, php-format
+msgid "Archive for the '%s' Category"
+msgstr "Archive for the '%s' Category"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:8
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:10
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:12
+#, php-format
+msgid "Archive for %s"
+msgstr "Archive for %s"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:8
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:27
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:10
+msgid "F, Y"
+msgstr "F, Y"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:14
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:4
+msgid "Search Results"
+msgstr "Search Results"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:16
+msgid "Author Archive"
+msgstr "Author Archive"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:18
+msgid "Blog Archives"
+msgstr "Blog Archives"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:21
+#: /home/mch/www/wp-wurfled/wml-theme/index.php:6
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:7
+#: /home/mch/www/wp-wurfled/wml-theme/single.php:4
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Permanent Link to %s"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:26
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:12
+msgid "Posted in"
+msgstr "Posted in"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:26
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:12
+msgid "Edit"
+msgstr "Edit"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:26
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:12
+msgid "No Comments"
+msgstr "No Comments"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:26
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:12
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:26
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:12
+msgid "% Comments"
+msgstr "% Comments"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:30
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:16
+msgid "Previous Entries"
+msgstr "Previous Entries"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:30
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:16
+msgid "Next Entries"
+msgstr "Next Entries"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:33
+#: /home/mch/www/wp-wurfled/wml-theme/index.php:15
+msgid "Not Found"
+msgstr "Not Found"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Please do not load this page directly. Thanks!"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "This post is password protected. Enter the password to view comments."
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:18
+msgid "No Responses"
+msgstr "No Responses"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:18
+msgid "One Response"
+msgstr "One Response"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:18
+msgid "% Responses"
+msgstr "% Responses"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:18
+msgid "to"
+msgstr "to"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:22
+msgid "Says:"
+msgstr "Says:"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:24
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:27
+msgid "at"
+msgstr "at"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:41
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:45
+msgid "Leave a Reply"
+msgstr "Leave a Reply"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:51
+msgid "Logged in as"
+msgstr "Logged in as"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:51
+msgid "Log out of this account"
+msgstr "Log out of this account"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:51
+msgid "Logout"
+msgstr "Logout"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:54
+msgid "Name"
+msgstr "Name"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:54
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:56
+msgid "required"
+msgstr "required"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:56
+msgid "Mail (will not be published)"
+msgstr "Mail (will not be published)"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:58
+msgid "Website"
+msgstr "Website"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:60
+msgid "You can use these tags:"
+msgstr "You can use these tags:"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:62
+msgid "Submit Comment"
+msgstr "Submit Comment"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/index.php:12
+msgid "Previous Page"
+msgstr "Previous Page"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/index.php:12
+msgid "Next Page"
+msgstr "Next Page"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/page.php:6
+msgid "Read the rest of this page"
+msgstr "Read the rest of this page"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/page.php:7
+#: /home/mch/www/wp-wurfled/wml-theme/sidebar.php:15
+msgid "Pages:"
+msgstr "Pages:"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/page.php:7
+#: /home/mch/www/wp-wurfled/wml-theme/single.php:6
+msgid "number"
+msgstr "number"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:8
+msgid "l, F jS, Y"
+msgstr "l, F jS, Y"
+
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:19
+msgid "No posts found. Try a different search?"
+msgstr "No posts found. Try a different search?"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/searchform.php:6
+msgid "Search"
+msgstr "Search"
+
+#: /home/mch/www/wp-wurfled/wml-theme/sidebar.php:9
+msgid "Tags:"
+msgstr "Tags:"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/sidebar.php:17
+msgid "Categories:"
+msgstr "Categories:"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/sidebar.php:19
+msgid "Archives:"
+msgstr "Archives:"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/single.php:5
+msgid "Read the rest of this entry"
+msgstr "Read the rest of this entry"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/single.php:12
+msgid "Sorry, no posts matched your criteria."
+msgstr "Sorry, no posts matched your criteria."
+
+#
+#: /home/mch/www/wp-wurfled/xhtmlmp-theme/archive.php:23
+#: /home/mch/www/wp-wurfled/xhtmlmp-theme/index.php:7
+msgid "by"
+msgstr "by"
+
+#
+#: /home/mch/www/wp-wurfled/xhtmlmp-theme/footer.php:3
+#, php-format
+msgid "%1$s is proudly powered by %2$s and pda enhancement by %3$s."
+msgstr "%1$s is proudly powered by %2$s and pda enhancement by %3$s."
+
+#
+#: /home/mch/www/wp-wurfled/xhtmlmp-theme/header.php:16
+msgid "Blog Archive"
+msgstr "Blog Archive"
+
+#
+#: /home/mch/www/wp-wurfled/xhtmlmp-theme/single.php:12
+#, php-format
+msgid "This entry was posted on %1$s at %2$s and is filled under:"
+msgstr "This entry was posted on %1$s at %2$s and is filled under:"
+
+#: /home/mch/www/wp-wurfled/xhtmlmp-theme/single.php:13
+msgid "Tags: "
+msgstr "Tags: "
+
+#: /home/mch/www/wp-wurfled/html/handsets.php:1
+msgid "Wurfl database"
+msgstr "Wurfl database"
+
+#: /home/mch/www/wp-wurfled/html/handsets.php:5
+msgid "Download WURFL XML"
+msgstr "Download WURFL XML"
+
+#: /home/mch/www/wp-wurfled/html/handsets.php:6
+msgid "Regenerate cache"
+msgstr "Regenerate cache"
+
+#: /home/mch/www/wp-wurfled/html/handsets.php:10
+msgid "Save models to database"
+msgstr "Save models to database"
+
+#: /home/mch/www/wp-wurfled/html/handsets.php:12
+msgid "Wurfl ID: "
+msgstr "Wurfl ID: "
+
+#: /home/mch/www/wp-wurfled/html/handsets.php:13
+#: /home/mch/www/wp-wurfled/html/handsets.php:16
+msgid "Get Device"
+msgstr "Get Device"
+
+#: /home/mch/www/wp-wurfled/html/handsets.php:15
+msgid "User-Agent: "
+msgstr "User-Agent: "
+
+#: /home/mch/www/wp-wurfled/html/log.php:2
+msgid "Wurfled Log"
+msgstr "Wurfled Log"
+

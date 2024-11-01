@@ -1,0 +1,376 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-wurfled 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-05 14:45+0100\n"
+"PO-Revision-Date: 2009-06-05 16:08+0100\n"
+"Last-Translator: \n"
+"Language-Team: DEMORU <libor.sigmund@demoru.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /home/mch/www/wp-wurfled/\n"
+"X-Poedit-SearchPath-0: /home/mch/www/wp-wurfled\n"
+
+#: /home/mch/www/wp-wurfled/wurfled.php:154
+msgid "WP-Wurfled"
+msgstr "WP-Wurfled"
+
+#: /home/mch/www/wp-wurfled/wurfled-handsets.php:27
+#, php-format
+msgid "Display: width: %s px, height: %s px"
+msgstr "Displej: : šířka: %s px, výška: %s px"
+
+#: /home/mch/www/wp-wurfled/wurfled-handsets.php:30
+#, php-format
+msgid "Device %s not found"
+msgstr "Zařízení %s nenalezeno"
+
+#: /home/mch/www/wp-wurfled/wurfled-handsets.php:193
+msgid "devices loaded"
+msgstr "Zařízení načtena"
+
+#: /home/mch/www/wp-wurfled/wurfled-html.php:232
+msgid "Download Capabilities"
+msgstr "Možnosti stažení"
+
+#: /home/mch/www/wp-wurfled/wurfled-html.php:234
+msgid "Not Supported"
+msgstr "Nepodporováno"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/404.php:3
+msgid "Error 404 - Not Found"
+msgstr "Chyba 404 - nenalezeno"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/404.php:4
+#: /home/mch/www/wp-wurfled/wml-theme/index.php:16
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Nenalezeno, zkuste zkontrolovat dotaz."
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:6
+#, php-format
+msgid "Archive for the '%s' Category"
+msgstr "Archiv  '%s' kategorie"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:8
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:10
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:12
+#, php-format
+msgid "Archive for %s"
+msgstr "Archiv %s"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:8
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:27
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:10
+msgid "F, Y"
+msgstr "F, Y"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:14
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:4
+msgid "Search Results"
+msgstr "Výsledek hledání"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:16
+msgid "Author Archive"
+msgstr "Autor archivu"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:18
+msgid "Blog Archives"
+msgstr "Archiv blogu "
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:21
+#: /home/mch/www/wp-wurfled/wml-theme/index.php:6
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:7
+#: /home/mch/www/wp-wurfled/wml-theme/single.php:4
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Stálý odkaz k %s"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:26
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:12
+msgid "Posted in"
+msgstr "Zveřejněno v"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:26
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:12
+msgid "Edit"
+msgstr "Editovat"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:26
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:12
+msgid "No Comments"
+msgstr "Žádné komentáře"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:26
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:12
+msgid "1 Comment"
+msgstr "1 komentář"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:26
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:12
+msgid "% Comments"
+msgstr "% komentáře"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:30
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:16
+msgid "Previous Entries"
+msgstr "Předchozí článek"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:30
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:16
+msgid "Next Entries"
+msgstr "Další článek"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/archive.php:33
+#: /home/mch/www/wp-wurfled/wml-theme/index.php:15
+msgid "Not Found"
+msgstr "Nenalezeno"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Prosím, nepřistupujte na tuto stránku přímo. Děkuji!"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Tento článek je zaheslován. Zadejte heslo pro zobrazení komentářů."
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:18
+msgid "No Responses"
+msgstr "Žádné reakce"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:18
+msgid "One Response"
+msgstr "Jedna reakce"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:18
+msgid "% Responses"
+msgstr "% reakcí"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:18
+msgid "to"
+msgstr "k"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:22
+msgid "Says:"
+msgstr "Píše:"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:24
+msgid "Your comment is awaiting moderation."
+msgstr "Vaše reakce čeká na zpracování."
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:27
+msgid "at"
+msgstr "v"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:41
+msgid "Comments are closed."
+msgstr "Diskuze je uzavřena."
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:45
+msgid "Leave a Reply"
+msgstr "Zanechte odpověď"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:51
+msgid "Logged in as"
+msgstr "Přihlášen jako"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:51
+msgid "Log out of this account"
+msgstr "Odhlásit se z účtu"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:51
+msgid "Logout"
+msgstr "Odhlásit"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:54
+msgid "Name"
+msgstr "Jméno"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:54
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:56
+msgid "required"
+msgstr "nutné"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:56
+msgid "Mail (will not be published)"
+msgstr "E-mail (adresa nebude zveřejněna)"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:58
+msgid "Website"
+msgstr "Webová stránka"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:60
+msgid "You can use these tags:"
+msgstr "Dostupné značky:"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/comments.php:62
+msgid "Submit Comment"
+msgstr "Vložit komentář"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/index.php:12
+msgid "Previous Page"
+msgstr "Předchozí stránka"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/index.php:12
+msgid "Next Page"
+msgstr "Další stránka"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/page.php:6
+msgid "Read the rest of this page"
+msgstr "Zobrazit zbytek stránky"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/page.php:7
+#: /home/mch/www/wp-wurfled/wml-theme/sidebar.php:15
+msgid "Pages:"
+msgstr "Stránky:"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/page.php:7
+#: /home/mch/www/wp-wurfled/wml-theme/single.php:6
+msgid "number"
+msgstr "čísla"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:8
+msgid "l, F jS, Y"
+msgstr "l, F jS, Y"
+
+#: /home/mch/www/wp-wurfled/wml-theme/search.php:19
+msgid "No posts found. Try a different search?"
+msgstr "Nenalezeno, zkuste přeformulovat dotaz."
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/searchform.php:6
+msgid "Search"
+msgstr "Vyhledávání"
+
+#: /home/mch/www/wp-wurfled/wml-theme/sidebar.php:9
+msgid "Tags:"
+msgstr "Značky:"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/sidebar.php:17
+msgid "Categories:"
+msgstr "Kategorie:"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/sidebar.php:19
+msgid "Archives:"
+msgstr "Archivy:"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/single.php:5
+msgid "Read the rest of this entry"
+msgstr "Přečíst zbytek článku"
+
+#
+#: /home/mch/www/wp-wurfled/wml-theme/single.php:12
+msgid "Sorry, no posts matched your criteria."
+msgstr "Vašemu dotazu neodpovídá žádný článek."
+
+#
+#: /home/mch/www/wp-wurfled/xhtmlmp-theme/archive.php:23
+#: /home/mch/www/wp-wurfled/xhtmlmp-theme/index.php:7
+msgid "by"
+msgstr "od"
+
+#
+#: /home/mch/www/wp-wurfled/xhtmlmp-theme/footer.php:3
+#, php-format
+msgid "%1$s is proudly powered by %2$s and pda enhancement by %3$s."
+msgstr ""
+
+#
+#: /home/mch/www/wp-wurfled/xhtmlmp-theme/header.php:16
+msgid "Blog Archive"
+msgstr "Archiv blogu"
+
+#
+#: /home/mch/www/wp-wurfled/xhtmlmp-theme/single.php:12
+#, php-format
+msgid "This entry was posted on %1$s at %2$s and is filled under:"
+msgstr "Tento článek byl přidán v %1$s v %2$s do kategorie:"
+
+#: /home/mch/www/wp-wurfled/xhtmlmp-theme/single.php:13
+msgid "Tags: "
+msgstr "Značky: "
+
+#: /home/mch/www/wp-wurfled/html/handsets.php:1
+msgid "Wurfl database"
+msgstr "Wurfl databáze"
+
+#: /home/mch/www/wp-wurfled/html/handsets.php:5
+msgid "Download WURFL XML"
+msgstr "Stáhnout WURFL XML"
+
+#: /home/mch/www/wp-wurfled/html/handsets.php:6
+msgid "Regenerate cache"
+msgstr "Aktualizovat cache"
+
+#: /home/mch/www/wp-wurfled/html/handsets.php:10
+msgid "Save models to database"
+msgstr "Uložit zařízení do databáze"
+
+#: /home/mch/www/wp-wurfled/html/handsets.php:12
+msgid "Wurfl ID: "
+msgstr "Wurfl ID: "
+
+#: /home/mch/www/wp-wurfled/html/handsets.php:13
+#: /home/mch/www/wp-wurfled/html/handsets.php:16
+msgid "Get Device"
+msgstr "Identifikovat zařízení"
+
+#: /home/mch/www/wp-wurfled/html/handsets.php:15
+msgid "User-Agent: "
+msgstr "User-Agent: "
+
+#: /home/mch/www/wp-wurfled/html/log.php:2
+msgid "Wurfled Log"
+msgstr "Wurfled Log"
+
